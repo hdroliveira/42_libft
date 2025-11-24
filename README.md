@@ -1,3 +1,5 @@
+Libft
+
 Libft is the first project at 42.
 The goal is to re-create a custom C standard library, implementing essential functions for memory manipulation, strings, linked lists, and more.
 
